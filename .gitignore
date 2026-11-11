@@ -1,0 +1,12 @@
+# Notes internes (prospection, prompts) : non publiées
+LIVRAISON.md
+LISEZMOI.md
+PROMPT.md
+# Outils locaux de prévisualisation
+.claude/
+# Divers
+Thumbs.db
+desktop.ini
+.DS_Store
+*.zip
+node_modules/

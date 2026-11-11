@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1000" viewBox="0 0 900 1000">
+  <rect width="100%" height="100%" fill="#DCE1E7"/>
+  <circle cx="450" cy="420" r="210" fill="#F5B400"/>
+  <g transform="translate(282 252) scale(14)" fill="none" stroke="#12263A" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/>
+  </g>
+  <text x="50%" y="740" text-anchor="middle" font-family="'Arial Narrow', Arial, sans-serif" font-weight="700" font-size="54" fill="#12263A">PHOTO DE L’ÉQUIPE / ATELIER</text>
+  <text x="50%" y="795" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#4A5868">à remplacer · images/atelier.jpg</text>
+</svg>

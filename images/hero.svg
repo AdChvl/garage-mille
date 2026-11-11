@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1100" viewBox="0 0 1000 1100">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2A4A6B"/><stop offset="1" stop-color="#0E1A26"/></linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)"/>
+  <!-- route -->
+  <path d="M380 1100 L470 640 L530 640 L620 1100 Z" fill="#0A131C" opacity=".6"/>
+  <g fill="#F5B400"><rect x="494" y="1000" width="12" height="80"/><rect x="495" y="880" width="10" height="60"/><rect x="496" y="780" width="8" height="42"/><rect x="497" y="705" width="6" height="26"/></g>
+  <!-- bâtiment garage -->
+  <rect x="170" y="330" width="660" height="310" fill="#E8EDF2"/>
+  <rect x="150" y="300" width="700" height="44" fill="#F5B400"/>
+  <text x="500" y="332" text-anchor="middle" font-family="'Arial Narrow', Arial, sans-serif" font-weight="700" font-size="30" letter-spacing="6" fill="#12263A">GARAGE MILLE</text>
+  <g fill="#1C3650"><rect x="210" y="400" width="170" height="240"/><rect x="415" y="400" width="170" height="240"/><rect x="620" y="400" width="170" height="240"/></g>
+  <g stroke="#2A4A6B" stroke-width="4"><path d="M210 440h170M210 480h170M210 520h170M210 560h170M210 600h170M415 440h170M415 480h170M415 520h170M415 560h170M415 600h170M620 440h170M620 480h170M620 520h170M620 560h170M620 600h170"/></g>
+  <text x="50%" y="830" text-anchor="middle" font-family="'Arial Narrow', Arial, sans-serif" font-weight="700" font-size="58" fill="#FFFFFF">PHOTO DE LA FAÇADE</text>
+  <text x="50%" y="885" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#A9B6C4">à remplacer · images/hero.jpg</text>
+</svg>
